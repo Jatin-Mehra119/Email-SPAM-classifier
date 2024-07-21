@@ -1,7 +1,6 @@
 numpy
 nltk
 urlextract
-collections
 scipy
 pandas
 scikit-learn
