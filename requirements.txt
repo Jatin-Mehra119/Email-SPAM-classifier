@@ -1,4 +1,9 @@
 numpy
+nltk
+re
+urlextract
+collections
+scipy
 pandas
 scikit-learn
 joblib
