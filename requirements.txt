@@ -1,6 +1,5 @@
 numpy
 nltk
-re
 urlextract
 collections
 scipy
