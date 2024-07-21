@@ -22,3 +22,10 @@ Using joblib
 ### For App
 - Using streamlit with simple easy to use interactive UI.
 - Makes prediction using pre-trained model using joblib.
+
+### Use Cases
+- Job Seekers: Candidates can use the app to check if their job application emails are likely to be marked as spam, ensuring better delivery rates to potential employers.
+- HR Professionals: HR departments can screen incoming job application emails to filter out spam and prioritize genuine applications.
+- Email Marketers: Marketing professionals can test their email campaigns to minimize the risk of their emails being flagged as spam, thereby improving open rates.
+- Small Businesses: Entrepreneurs can ensure that their business communications are not mistaken for spam, fostering better client relationships.
+- Students and Researchers: Academics can use the app to understand spam detection and apply similar techniques to their own projects or research.
